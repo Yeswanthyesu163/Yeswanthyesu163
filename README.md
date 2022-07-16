@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Yeswanth S</h1>
-<h3 align="center">I am a Student at Bannari Amman Institute of Technology</h3>
+<h3 align="center">I am an Application Developer at Thoughtworks</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeswanthyesu163&label=Profile%20views&color=0e75b6&style=flat" alt="yeswanthyesu163" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yeswanthyesu163" alt="yeswanthyesu163" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
-- 📫 How to reach me yeswanth.cs18@bitsathy.ac.in
+- 🌱 I’m currently learning **Java and Spring**
+- 📫 How to reach me yeswanthfff@gmail.com
 
 
 <h3 align="left">Languages and Tools:</h3>
